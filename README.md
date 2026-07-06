@@ -1,5 +1,8 @@
 # Week-19-Lecture
-서구 중심적 감정 모델을 넘어: 한국어 맥락적 감정 구조(KOTE)의 도출 과정과 한계
+
+# **서구 중심적 감정 모델을 넘어: 한국어 맥락적 감정 구조(KOTE)의 도출 과정과 한계**
+
+
 # **KOTE (Korean Online That-gul Emotions Dataset) 논문 분석**
 
 ## **1\. 연구의 배경 및 동기**
